@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "density": ["MDPI", "HDPI", "XHDPI", "XXHDPI", "XXXHDPI"],
+  "catalogues": [
+    {
+      "title": "Commemorative 2 Euro coins of European Union",
+      "date": "2014-11-13",
+      "lang": "en",
+      "file": "std-commemorative-eu.db",
+      "size": {"MDPI": "", "HDPI": "", "XHDPI": "", "XXHDPI": "", "XXXHDPI": ""},
+      "url": {
+        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_mdpi.db",
+        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_hdpi.db",
+        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_xhdpi.db",
+        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_xxhdpi.db",
+        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_xxxhdpi.db"
+      }
+    }
+  ]
+}
