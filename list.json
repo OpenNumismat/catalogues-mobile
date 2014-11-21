@@ -17,6 +17,20 @@
       }
     },
     {
+      "title": "Commemorative US coins",
+      "date": "2014-11-10",
+      "lang": "en",
+      "file": "std-commemorative-us.db",
+      "size": {"MDPI": "80.6MB", "HDPI": "82.7MB", "XHDPI": "85.5MB", "XXHDPI": "92.7MB", "XXXHDPI": "102MB"},
+      "url": {
+        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_mdpi.db",
+        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_hdpi.db",
+        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xhdpi.db",
+        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xxhdpi.db",
+        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xxxhdpi.db"
+      }
+    },
+    {
       "title": "Памятные монеты СССР",
       "date": "2014-11-19",
       "lang": "ru",
