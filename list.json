@@ -23,11 +23,25 @@
       "file": "std-commemorative-us.db",
       "size": {"MDPI": "80.6MB", "HDPI": "82.7MB", "XHDPI": "85.5MB", "XXHDPI": "92.7MB", "XXXHDPI": "102MB"},
       "url": {
-        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_mdpi.db",
-        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_hdpi.db",
-        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xhdpi.db",
-        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xxhdpi.db",
-        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-eu_xxxhdpi.db"
+        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-us_mdpi.db",
+        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-us_hdpi.db",
+        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-us_xhdpi.db",
+        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-us_xxhdpi.db",
+        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_2014-11-10/std-commemorative-us_xxxhdpi.db"
+      }
+    },
+    {
+      "title": "Памятные монеты Российской Федерации",
+      "date": "2014-11-21",
+      "lang": "ru",
+      "file": "std-commemorative-ru.db",
+      "size": {"MDPI": "25.5MB", "HDPI": "27.4MB", "XHDPI": "29.8MB", "XXHDPI": "5.0MB", "XXXHDPI": "6.8MB"},
+      "url": {
+        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_mdpi.db",
+        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_hdpi.db",
+        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_xhdpi.db",
+        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_xxhdpi.db",
+        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_xxxhdpi.db"
       }
     },
     {
