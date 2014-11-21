@@ -7,7 +7,7 @@
       "date": "2014-11-13",
       "lang": "en",
       "file": "std-commemorative-eu.db",
-      "size": {"MDPI": "10.4MB", "HDPI": "12.8MB", "XHDPI": "16.1MB", "XXHDPI": "49.2MB", "XXXHDPI": "72MB"},
+      "size": {"MDPI": "19.5MB", "HDPI": "22.0MB", "XHDPI": "25.3MB", "XXHDPI": "34.6MB", "XXXHDPI": "46.7MB"},
       "url": {
         "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_mdpi.db",
         "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-eu_2014-11-13/std-commemorative-eu_hdpi.db",
@@ -21,7 +21,7 @@
       "date": "2014-11-19",
       "lang": "ru",
       "file": "std-commemorative-su.db",
-      "size": {"MDPI": "2.38MB", "HDPI": "2.88MB", "XHDPI": "3.50MB", "XXHDPI": "5.02MB", "XXXHDPI": "6.79MB"},
+      "size": {"MDPI": "2.4MB", "HDPI": "2.9MB", "XHDPI": "3.5MB", "XXHDPI": "5.0MB", "XXXHDPI": "6.8MB"},
       "url": {
         "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-su_2014-11-19/std-commemorative-su_mdpi.db",
         "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-su_2014-11-19/std-commemorative-su_hdpi.db",
