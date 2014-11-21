@@ -35,7 +35,7 @@
       "date": "2014-11-21",
       "lang": "ru",
       "file": "std-commemorative-ru.db",
-      "size": {"MDPI": "25.5MB", "HDPI": "27.4MB", "XHDPI": "29.8MB", "XXHDPI": "5.0MB", "XXXHDPI": "6.8MB"},
+      "size": {"MDPI": "25.5MB", "HDPI": "27.4MB", "XHDPI": "29.8MB", "XXHDPI": "36.5MB", "XXXHDPI": "45.0MB"},
       "url": {
         "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_mdpi.db",
         "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_2014-11-21/std-commemorative-ru_hdpi.db",
