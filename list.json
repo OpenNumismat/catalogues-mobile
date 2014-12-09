@@ -31,6 +31,20 @@
       }
     },
     {
+      "title": "Types of circulation coins of European Union",
+      "date": "2014-12-09",
+      "lang": "en",
+      "file": "base-regular-eu.db",
+      "size": {"MDPI": "25MB", "HDPI": "27.9MB", "XHDPI": "31.9MB", "XXHDPI": "42.5MB", "XXXHDPI": "56.3MB"},
+      "url": {
+        "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/base-regular-eu_2014-12-09/base-regular-eu_mdpi.db",
+        "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/base-regular-eu_2014-12-09/base-regular-eu_hdpi.db",
+        "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/base-regular-eu_2014-12-09/base-regular-eu_xhdpi.db",
+        "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/base-regular-eu_2014-12-09/base-regular-eu_xxhdpi.db",
+        "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/base-regular-eu_2014-12-09/base-regular-eu_xxxhdpi.db"
+      }
+    },
+    {
       "title": "Памятные монеты Российской Федерации",
       "date": "2014-11-24",
       "lang": "ru",
