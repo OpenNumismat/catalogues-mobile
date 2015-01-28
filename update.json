@@ -8,16 +8,16 @@
       "lang": "ru",
       "updates": [
         {
-          "title": "std-commemorative-ru_patch_2014-12-25",
+          "title": "std-commemorative-ru_patch_2015-01-28",
           "date": "2014-12-25",
-          "file": "std-commemorative-ru_patch_2014-12-25.db",
-          "size": {"MDPI": "1.87MB", "HDPI": "1.96MB", "XHDPI": "2.08MB", "XXHDPI": "2.4MB", "XXXHDPI": "2.8MB"},
+          "file": "std-commemorative-ru_patch_2015-01-28.db",
+          "size": {"MDPI": "2.51MB", "HDPI": "2.62MB", "XHDPI": "2.76MB", "XXHDPI": "3.14MB", "XXXHDPI": "3.63MB"},
           "url": {
-            "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2014-12-25/std-commemorative-ru_patch_mdpi.db",
-            "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2014-12-25/std-commemorative-ru_patch_hdpi.db",
-            "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2014-12-25/std-commemorative-ru_patch_xhdpi.db",
-            "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2014-12-25/std-commemorative-ru_patch_xxhdpi.db",
-            "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2014-12-25/std-commemorative-ru_patch_xxxhdpi.db"
+            "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2015-01-28/std-commemorative-ru_patch_mdpi.db",
+            "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2015-01-28/std-commemorative-ru_patch_hdpi.db",
+            "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2015-01-28/std-commemorative-ru_patch_xhdpi.db",
+            "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2015-01-28/std-commemorative-ru_patch_xxhdpi.db",
+            "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-ru_patch_2015-01-28/std-commemorative-ru_patch_xxxhdpi.db"
           }
         }
       ]
