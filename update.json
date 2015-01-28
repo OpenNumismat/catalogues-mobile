@@ -21,6 +21,26 @@
           }
         }
       ]
+    },
+    {
+      "title": "Standard catalogue of commemorative coins of USA",
+      "file": "std-commemorative-us.db",
+      "lang": "en",
+      "updates": [
+        {
+          "title": "std-commemorative-ru_patch_2015-01-28",
+          "date": "2014-12-25",
+          "file": "std-commemorative-ru_patch_2015-01-28.db",
+          "size": {"MDPI": "2.99MB", "HDPI": "3.06MB", "XHDPI": "3.15MB", "XXHDPI": "3.4MB", "XXXHDPI": "3.75MB"},
+          "url": {
+            "MDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_patch_2015-01-28/std-commemorative-us_patch_mdpi.db",
+            "HDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_patch_2015-01-28/std-commemorative-us_patch_hdpi.db",
+            "XHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_patch_2015-01-28/std-commemorative-us_patch_xhdpi.db",
+            "XXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_patch_2015-01-28/std-commemorative-us_patch_xxhdpi.db",
+            "XXXHDPI": "https://github.com/OpenNumismat/catalogues-mobile/releases/download/std-commemorative-us_patch_2015-01-28/std-commemorative-us_patch_xxxhdpi.db"
+          }
+        }
+      ]
     }
   ]
 }
